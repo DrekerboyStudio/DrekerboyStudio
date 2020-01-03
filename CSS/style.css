@@ -93,3 +93,11 @@ nav {
 .whitetext {
     color: white;
 }
+
+.right {
+    text-align: right;
+}
+
+.errorbackground {
+    background-color: white;
+}
